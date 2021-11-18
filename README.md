@@ -22,6 +22,6 @@ Projekt gimbala opartego o moduł Arduino Nano.
 - 2x Przełącznik kołyskowy
 
 ## Schemat
-![Example screenshot](/Gimbal_bb.png)
+![Example screenshot](/img/Gimbal_bb.png)
 
 
