@@ -11,7 +11,7 @@ Projekt gimbala opartego o moduł Arduino Nano.
 - Stablizacja w 3 osiach 
 
 ## Potrzebne elementy
-- Arduino Nano
+- Arduino Nano 3.0 V3
 - 3x Serwo MG-996R
 - 3 – osiowy akcelerometr GY521 MPU6050
 - Przetwornica DC LM2596S 3A
