@@ -25,5 +25,5 @@ Projekt gimbala opartego o moduł Arduino Nano.
 ![Example screenshot](/img/Gimbal_bb.png)
 
 ## Obudowa
-![Example screenshot](/img/Inventor.png)
+![Example screenshot](/img/Inventor.PNG)
 
